@@ -1,0 +1,6 @@
+{
+  "httpMethod": "DELETE",
+  "param": {
+    "menu_id": "1"
+  }
+}

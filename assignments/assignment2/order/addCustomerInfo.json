@@ -1,0 +1,9 @@
+{
+  "httpMethod" : "POST",
+  "data" : {
+    "order_id": "123",
+    "customer_name": "Son T",
+    "customer_email": "son.thai@gmail.com",
+    "menu_id": "1"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "httpMethod": "GET",
+  "param": {
+    "menu_id": "1"
+  }
+}
