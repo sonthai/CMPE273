@@ -1,6 +1,6 @@
 region: us-west-2
 
-function_name: menu_service
+function_name: order_service
 handler: service.handler
 role: awslambdarole
 description: Order service to take customer order

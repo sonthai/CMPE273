@@ -1,0 +1,6 @@
+{
+  "httpMethod": "GET",
+  "param": {
+    "order_id": "123"
+  }
+}
